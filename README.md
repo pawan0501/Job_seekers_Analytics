@@ -46,12 +46,6 @@ The goal is to uncover employment patterns, predict outcomes, and provide meanin
 
 ## 📈 Results  
 - Discovered key factors influencing job seeker preferences and salary trends.  
-- Achieved **XX% model accuracy** (update with your actual result).  
+- Achieved up to ~98% accuracy using ensemble models (Random Forest), compared to 30–47% with baseline models.  
 - Insights presented with clear visualizations for better interpretation.  
 
----
-
-## 🔮 Future Enhancements  
-- Include **advanced ML models** (XGBoost, LightGBM).  
-- Build a **dashboard** for interactive visualization (Streamlit / Power BI).  
-- Expand dataset for more robust predictions.  
